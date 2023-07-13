@@ -31,7 +31,7 @@ I constantly strive to expand my knowledge and stay updated with the latest tech
 
 ### Programming Languages / Testing
 
-- [Curso de Testes com PHPUnit (School of Net)](http://www.schoolofnet.com/validar-certificado/validate/number/c99e28cd-9bd2-413c-bbf1-e6a6b640106e/)
+- [Testes com PHPUnit (School of Net)](http://www.schoolofnet.com/validar-certificado/validate/number/c99e28cd-9bd2-413c-bbf1-e6a6b640106e/)
 - [Iniciando com Microservicos - Senecajs (School of Net)](http://www.schoolofnet.com/validar-certificado/?certificate=2c772703-69a5-4dd4-8ce2-1a151da26fc6)
 - [JavaScript: programando na linguagem da web (Alura)](https://cursos.alura.com.br/certificate/8ecfa325-125a-40c0-94db-4ead7204e861)
 - [PHP e TDD: testes com PHPUnit (Alura)](https://cursos.alura.com.br/certificate/8e1e13f0-947d-4e67-9b99-06340dfe6f39)
@@ -40,7 +40,7 @@ I constantly strive to expand my knowledge and stay updated with the latest tech
 
 ### Framework Laravel
 
-- [Curso de Laravel: Trabalhando com Cache em API (School of Net)](http://www.schoolofnet.com/validar-certificado/validate/number/51a29abc-5066-44a1-a9ef-712778fdf022/)
+- [Laravel: Trabalhando com Cache em API (School of Net)](http://www.schoolofnet.com/validar-certificado/validate/number/51a29abc-5066-44a1-a9ef-712778fdf022/)
 - [Laravel parte 1: produtividade no desenvolvimento web (Alura)](https://cursos.alura.com.br/certificate/ac947fa6-e62b-477e-93ee-e3c39d23c2d6)
 - [Laravel parte 2: trabalhando com Autenticação, Relacionamentos e Testes (Alura)](https://cursos.alura.com.br/user/renatomcipriano/course/laravel-autenticacao-relacionamentos-testes/certificate)
 - [Laravel parte 3: Eventos, filas, upload e e-mail (Alura)](https://cursos.alura.com.br/certificate/35f3355a-73dd-4701-a21c-61c1b1f46bef)
@@ -49,7 +49,7 @@ I constantly strive to expand my knowledge and stay updated with the latest tech
 
 ### Framework Vue.js
 
-- [Curso de PWA com Vue.js (School of Net)](http://www.schoolofnet.com/validar-certificado/validate/number/5d25b091-881a-4664-ab25-c4c68091caef/)
+- [PWA com Vue.js (School of Net)](http://www.schoolofnet.com/validar-certificado/validate/number/5d25b091-881a-4664-ab25-c4c68091caef/)
 - [Vue.js parte 1: construindo Single Page Applications (Alura)](https://cursos.alura.com.br/certificate/57bd2cfc-0889-4c66-b78d-4451bb85bb08)
 - [Vue.js parte 2: construindo Single Page Applications (Alura)](https://cursos.alura.com.br/certificate/efbc3ecc-dec5-446c-a24a-cbcf6ffa96c6)
 - [Vue.js: protegendo recursos com autenticação e VueX (Alura)](https://cursos.alura.com.br/certificate/11900f3f-bd62-4eec-88b5-7ac67cdcc78a)
@@ -78,4 +78,5 @@ I constantly strive to expand my knowledge and stay updated with the latest tech
 
 ### More
 - [Criando um Curso Via Chatbot (SENAI/SC - Serviço Nacional de Aprendizagem Industrial)](https://github.com/renatocipriano/renatocipriano/blob/fc7f6f76a973dd725586b98d886c03f430537276/Criando%20um%20Curso%20Via%20Chatbot%20-%20Senai.pdf)
+- [Iniciando com TailwindCSS - Low level CSS](http://www.schoolofnet.com/validar-certificado/validate/number/00f04a2c-5a3b-4b87-a22a-7d2d3d84d121/)
 
