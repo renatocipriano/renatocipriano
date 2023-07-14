@@ -19,7 +19,7 @@ I constantly strive to expand my knowledge and stay updated with the latest tech
 - Version Control: Git, GitHub
 - Containerization: Docker
 
-## Projects
+## Projects Collaboration
 - [Vacina Sesi](https://vacinasesi.com.br/) - National extension project for vaccination registration.
 - [Cliente SESI + Saúde](https://saudemental.sesisc.org.br/) - Mental health solutions for your organization.
 - [Coronados](https://coronadados.com.br/) - CoronaDados is a web-based system for mass symptom tracking and monitoring.
