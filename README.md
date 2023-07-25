@@ -17,7 +17,7 @@ I constantly strive to expand my knowledge and stay updated with the latest tech
 - Testing: PHPUnit, Jest
 - Database Systems: MySQL, PostgreSQL
 - Version Control: Git, GitHub
-- Containerization: Docker
+- Containerization: Docker, AWS
 
 ## Projects Collaboration
 - [Vacina Sesi](https://vacinasesi.com.br/) - National extension project for vaccination registration.
@@ -73,7 +73,8 @@ I constantly strive to expand my knowledge and stay updated with the latest tech
 - [Git e Github: controle e compartilhe seu código (Alura)](https://cursos.alura.com.br/certificate/7254cd36-48fe-444b-a121-f5afee41b13d)
 - [Git e Github: estratégias de ramificação, Conflitos e Pull Requests (Alura)](https://cursos.alura.com.br/certificate/544ee87a-d9e1-4216-8fce-756585f83490)
 
-### Containerization
+### Containerization / AWS
+- [Descubra a Nuvem (DIO)](https://www.dio.me/certificate/C34B2FFA/share)
 - [Docker: Criando containers sem dor de cabeça (Alura)](https://cursos.alura.com.br/certificate/6adef779-6181-4c8e-a5ae-7cd78772360b)
 
 ### More
