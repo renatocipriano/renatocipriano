@@ -1,7 +1,7 @@
 # Hi there, I'm Renato! 👋
 
 ## About Me
-I'm a passionate full-stack programmer with over 6 years of experience in creating and maintaining web applications and systems. I have a strong focus on PHP and JavaScript, specializing in Laravel and Vue.js.
+I'm a passionate software engineer with over 6 years of experience in creating and maintaining web applications and systems. I have a strong focus on PHP and JavaScript, specializing in Laravel and Vue.js.
 
 I constantly strive to expand my knowledge and stay updated with the latest technologies in the industry.
 
